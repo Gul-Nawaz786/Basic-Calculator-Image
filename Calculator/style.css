@@ -1,0 +1,33 @@
+table{
+    width: 300px;
+    height: 400px;
+    text-align: center;
+    table-layout: fixed;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: rgb(136, 135, 135);
+    color: white;
+}
+
+.main1{
+    text-align: right;
+    padding-right: 20px;
+    letter-spacing: 3px;
+    background-color: rgb(239, 228, 214);
+    color: black;   
+    font-size: 20px; 
+}
+
+.color1{
+    background-color: rgb(86, 84, 84);
+}
+.color2{
+    background-color: rgb(236, 105, 58);
+}
+.color3{
+    background-color: rgb(159, 157, 157);
+}
+h3{
+    color: black;
+    text-decoration: underline;
+}
